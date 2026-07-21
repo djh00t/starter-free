@@ -40,7 +40,7 @@
     "tamagui": "^1.108.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.6",
+    "@babel/core": "^7.29.6",
     "@expo/metro-config": "~0.18.4",
     "@expo/metro-runtime": "~3.2.1",
     "@tamagui/babel-plugin": "^1.108.2",
