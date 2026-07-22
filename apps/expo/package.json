@@ -10,7 +10,7 @@
     "eject": "npx expo eject"
   },
   "dependencies": {
-    "@babel/runtime": "^7.24.6",
+    "@babel/runtime": "^8.0.0",
     "@expo/config-plugins": "~8.0.4",
     "@my/ui": "0.0.1",
     "app": "0.0.0",
@@ -36,7 +36,7 @@
     "react-native-web": "~0.19.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.6",
+    "@babel/core": "^7.29.7",
     "@expo/metro-config": "~0.18.4",
     "@tamagui/babel-plugin": "^1.108.2",
     "metro-minify-terser": "^0.80.9",
