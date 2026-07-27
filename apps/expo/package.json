@@ -36,7 +36,7 @@
     "react-native-web": "~0.19.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.7",
+    "@babel/core": "^8.0.0",
     "@expo/metro-config": "~0.18.4",
     "@tamagui/babel-plugin": "^1.108.2",
     "metro-minify-terser": "^0.80.9",
